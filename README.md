@@ -1,4 +1,3 @@
-https://github.com/Teriatkin/MobDev/blob/main/screenshots/6_1.jpg
 <h1 align="center">MobileDev6</h1>
 <h1 align="center">lab 6</h1>
 <p align="right">Виконав студент 3 курсу</p>
