@@ -1,0 +1,2 @@
+include ':TeriaProject'
+rootProject.name = "Lab6"
