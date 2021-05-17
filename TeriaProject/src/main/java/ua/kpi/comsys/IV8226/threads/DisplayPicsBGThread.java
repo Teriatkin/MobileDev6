@@ -26,7 +26,7 @@ public class DisplayPicsBGThread implements Runnable {
     }
 
     public String getSearch() {
-        String URL_ENDPOINT_SERVER = "https://pixabay.com/api/?key=19193969-87191e5db266905fe8936d565&q=yellow+flowers&image_type=photo&per_page=24";
+        String URL_ENDPOINT_SERVER = "https://pixabay.com/api/?key=19193969-87191e5db266905fe8936d565&q=yellow+flowers&image_type=photo&per_page=27";
         try {
             URL url = new URL(URL_ENDPOINT_SERVER);
             Log.i("NewsDataLoader", url.toString());
